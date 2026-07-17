@@ -2,6 +2,8 @@ import pandas as pd
 from loader import load_file
 from loader import load_file, load_profitandloss
 
+
+# Checking uniqueness of values
 def pk_uniqueness(df, column):
     total_rows = len(df)
     unique_values = df[column].nunique()
@@ -9,6 +11,7 @@ def pk_uniqueness(df, column):
         return "CRITICAL: Duplicate values found"
     return "Pass"
 
+# Checking the duplicates
 def deduplicate_annual(df):
     duplicated_rows = df[df.duplicated(subset=['company_id', 'year'], keep='last')]
     clean_df = df.drop_duplicates(subset=['company_id', 'year'], keep='last')
