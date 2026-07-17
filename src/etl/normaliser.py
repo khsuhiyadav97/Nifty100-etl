@@ -7,6 +7,10 @@ def normalize_ticker(ticker):
 def normalize_year(year_value):
         year = str(year_value).strip() # Clean whitespaces 
 
+         # TTM(Trailing twelve months)- Not a real date
+        if year.upper() == "TTM":
+                return "TTM"
+
         # try format- "Jan-23"
         try:
                 d = datetime.strptime(year, "%b-%y")
@@ -29,10 +33,11 @@ def normalize_year(year_value):
         # try format- "2023"
         
         try:
-                year_only = int(year_value)
+                year_only = int(year)
                 return f"{year_only}-01"
         except ValueError:
                 pass
+        
 
         return "PARSE-ERROR"
 
