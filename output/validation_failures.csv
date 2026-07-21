@@ -1,0 +1,582 @@
+company_id,year,rule,severity,issue
+ADANIPORTS,2013-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2014-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2015-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2016-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2017-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2018-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2019-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2020-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2021-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2022-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2023-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,2024-03,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ADANIPORTS,TTM,DQ-02,CRITICAL,"duplicate (company_id, year) pair"
+ULTRACEMCO,2013-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2014-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2015-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2016-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2017-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2018-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2019-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2020-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2021-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2022-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2023-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,2024-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ULTRACEMCO,TTM,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2013-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2014-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2015-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2016-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2017-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2018-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2019-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2020-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2021-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2022-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2023-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,2024-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNIONBANK,TTM,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2013-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2014-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2015-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2016-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2017-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2018-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2019-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2020-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2021-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2022-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2023-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,2024-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+UNITDSPR,TTM,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2012-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2013-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2014-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2015-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2016-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2017-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2018-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2019-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2020-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2021-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2022-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,2023-12,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VBL,TTM,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2013-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2014-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2015-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2016-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2017-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2018-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2019-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2020-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2021-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2022-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2023-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,2024-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+VEDL,TTM,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2013-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2014-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2015-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2016-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2017-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2018-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2019-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2020-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2021-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2022-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2023-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,2024-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+WIPRO,TTM,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZOMATO,2018-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZOMATO,2019-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZOMATO,2020-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZOMATO,2021-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZOMATO,2022-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZOMATO,2023-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZOMATO,2024-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZOMATO,TTM,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2013-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2014-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2015-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2016-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2017-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2018-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2019-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2020-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2021-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2022-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2023-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,2024-03,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ZYDUSLIFE,TTM,DQ-03,CRITICAL,"orphan company_id, no match in companies table"
+ADANIENSOL,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+AXISBANK,TTM,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+BAJFINANCE,TTM,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+BANKBARODA,TTM,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+CANBK,TTM,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+CHOLAFIN,TTM,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+CIPLA,TTM,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+COALINDIA,TTM,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCBANK,TTM,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+HDFCLIFE,TTM,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+HEROMOTOCO,TTM,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDALCO,TTM,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+HINDUNILVR,TTM,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIBANK,TTM,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIGI,TTM,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+ICICIPRULI,TTM,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+INDUSINDBK,TTM,DQ-05,WARNING,OPM cross-check mismatch
+JIOFIN,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+KOTAKBANK,TTM,DQ-05,WARNING,OPM cross-check mismatch
+SUNPHARMA,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2013-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2014-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2015-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2016-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2017-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2018-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2019-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2020-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2021-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2022-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2023-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,2024-03,DQ-05,WARNING,OPM cross-check mismatch
+INDIGO,TTM,DQ-05,WARNING,OPM cross-check mismatch
+ADANIENSOL,2014-03,DQ-06,WARNING,non-positive sales
+ABB,TTM,DQ-07,CRITICAL,invalid year format
+ADANIENSOL,TTM,DQ-07,CRITICAL,invalid year format
+ADANIENT,TTM,DQ-07,CRITICAL,invalid year format
+ADANIGREEN,TTM,DQ-07,CRITICAL,invalid year format
+ADANIPORTS,TTM,DQ-07,CRITICAL,invalid year format
+ADANIPORTS,TTM,DQ-07,CRITICAL,invalid year format
+ADANIPOWER,TTM,DQ-07,CRITICAL,invalid year format
+AMBUJACEM,PARSE-ERROR,DQ-07,CRITICAL,invalid year format
+AMBUJACEM,TTM,DQ-07,CRITICAL,invalid year format
+APOLLOHOSP,TTM,DQ-07,CRITICAL,invalid year format
+ASIANPAINT,TTM,DQ-07,CRITICAL,invalid year format
+ATGL,TTM,DQ-07,CRITICAL,invalid year format
+BAJAJ-AUTO,TTM,DQ-07,CRITICAL,invalid year format
+AXISBANK,TTM,DQ-07,CRITICAL,invalid year format
+BAJAJFINSV,TTM,DQ-07,CRITICAL,invalid year format
+BAJAJHLDNG,TTM,DQ-07,CRITICAL,invalid year format
+BAJFINANCE,TTM,DQ-07,CRITICAL,invalid year format
+BANKBARODA,TTM,DQ-07,CRITICAL,invalid year format
+BHARTIARTL,TTM,DQ-07,CRITICAL,invalid year format
+BEL,TTM,DQ-07,CRITICAL,invalid year format
+BHEL,TTM,DQ-07,CRITICAL,invalid year format
+BOSCHLTD,TTM,DQ-07,CRITICAL,invalid year format
+BPCL,TTM,DQ-07,CRITICAL,invalid year format
+BRITANNIA,TTM,DQ-07,CRITICAL,invalid year format
+CANBK,TTM,DQ-07,CRITICAL,invalid year format
+CHOLAFIN,TTM,DQ-07,CRITICAL,invalid year format
+CIPLA,TTM,DQ-07,CRITICAL,invalid year format
+COALINDIA,TTM,DQ-07,CRITICAL,invalid year format
+DABUR,TTM,DQ-07,CRITICAL,invalid year format
+DIVISLAB,TTM,DQ-07,CRITICAL,invalid year format
+DLF,TTM,DQ-07,CRITICAL,invalid year format
+DMART,TTM,DQ-07,CRITICAL,invalid year format
+DRREDDY,TTM,DQ-07,CRITICAL,invalid year format
+EICHERMOT,TTM,DQ-07,CRITICAL,invalid year format
+GAIL,TTM,DQ-07,CRITICAL,invalid year format
+GODREJCP,TTM,DQ-07,CRITICAL,invalid year format
+GRASIM,TTM,DQ-07,CRITICAL,invalid year format
+HAL,TTM,DQ-07,CRITICAL,invalid year format
+HAVELLS,TTM,DQ-07,CRITICAL,invalid year format
+HCLTECH,PARSE-ERROR,DQ-07,CRITICAL,invalid year format
+HCLTECH,TTM,DQ-07,CRITICAL,invalid year format
+HDFCBANK,TTM,DQ-07,CRITICAL,invalid year format
+HDFCLIFE,TTM,DQ-07,CRITICAL,invalid year format
+HEROMOTOCO,TTM,DQ-07,CRITICAL,invalid year format
+HINDALCO,TTM,DQ-07,CRITICAL,invalid year format
+HINDUNILVR,TTM,DQ-07,CRITICAL,invalid year format
+ICICIBANK,TTM,DQ-07,CRITICAL,invalid year format
+ICICIGI,TTM,DQ-07,CRITICAL,invalid year format
+ICICIPRULI,TTM,DQ-07,CRITICAL,invalid year format
+INDUSINDBK,TTM,DQ-07,CRITICAL,invalid year format
+INFY,TTM,DQ-07,CRITICAL,invalid year format
+IOC,TTM,DQ-07,CRITICAL,invalid year format
+IRCTC,TTM,DQ-07,CRITICAL,invalid year format
+IRFC,TTM,DQ-07,CRITICAL,invalid year format
+ITC,TTM,DQ-07,CRITICAL,invalid year format
+JINDALSTEL,TTM,DQ-07,CRITICAL,invalid year format
+JIOFIN,TTM,DQ-07,CRITICAL,invalid year format
+JSWENERGY,TTM,DQ-07,CRITICAL,invalid year format
+JSWSTEEL,TTM,DQ-07,CRITICAL,invalid year format
+KOTAKBANK,TTM,DQ-07,CRITICAL,invalid year format
+LICI,TTM,DQ-07,CRITICAL,invalid year format
+LODHA,TTM,DQ-07,CRITICAL,invalid year format
+LT,TTM,DQ-07,CRITICAL,invalid year format
+LTIM,TTM,DQ-07,CRITICAL,invalid year format
+M&M,TTM,DQ-07,CRITICAL,invalid year format
+MARUTI,TTM,DQ-07,CRITICAL,invalid year format
+MOTHERSON,TTM,DQ-07,CRITICAL,invalid year format
+NAUKRI,TTM,DQ-07,CRITICAL,invalid year format
+NESTLEIND,TTM,DQ-07,CRITICAL,invalid year format
+NHPC,TTM,DQ-07,CRITICAL,invalid year format
+NTPC,TTM,DQ-07,CRITICAL,invalid year format
+ONGC,TTM,DQ-07,CRITICAL,invalid year format
+PFC,TTM,DQ-07,CRITICAL,invalid year format
+PIDILITIND,TTM,DQ-07,CRITICAL,invalid year format
+PNB,TTM,DQ-07,CRITICAL,invalid year format
+POWERGRID,TTM,DQ-07,CRITICAL,invalid year format
+RECLTD,TTM,DQ-07,CRITICAL,invalid year format
+RELIANCE,TTM,DQ-07,CRITICAL,invalid year format
+SBILIFE,TTM,DQ-07,CRITICAL,invalid year format
+SBIN,TTM,DQ-07,CRITICAL,invalid year format
+SHREECEM,PARSE-ERROR,DQ-07,CRITICAL,invalid year format
+SHREECEM,TTM,DQ-07,CRITICAL,invalid year format
+SHRIRAMFIN,TTM,DQ-07,CRITICAL,invalid year format
+SUNPHARMA,TTM,DQ-07,CRITICAL,invalid year format
+TATACONSUM,TTM,DQ-07,CRITICAL,invalid year format
+TATAMOTORS,TTM,DQ-07,CRITICAL,invalid year format
+TATAPOWER,TTM,DQ-07,CRITICAL,invalid year format
+TATASTEEL,TTM,DQ-07,CRITICAL,invalid year format
+TCS,TTM,DQ-07,CRITICAL,invalid year format
+TECHM,TTM,DQ-07,CRITICAL,invalid year format
+TITAN,TTM,DQ-07,CRITICAL,invalid year format
+TORNTPHARM,TTM,DQ-07,CRITICAL,invalid year format
+TRENT,TTM,DQ-07,CRITICAL,invalid year format
+TVSMOTOR,TTM,DQ-07,CRITICAL,invalid year format
+ULTRACEMCO,TTM,DQ-07,CRITICAL,invalid year format
+UNIONBANK,TTM,DQ-07,CRITICAL,invalid year format
+UNITDSPR,TTM,DQ-07,CRITICAL,invalid year format
+VBL,TTM,DQ-07,CRITICAL,invalid year format
+VEDL,TTM,DQ-07,CRITICAL,invalid year format
+WIPRO,TTM,DQ-07,CRITICAL,invalid year format
+ZOMATO,TTM,DQ-07,CRITICAL,invalid year format
+ZYDUSLIFE,TTM,DQ-07,CRITICAL,invalid year format
+INDIGO,TTM,DQ-07,CRITICAL,invalid year format
+TVSMOTOR,2022-03,DQ-09,WARNING,net cash flow does not match components
+ADANIENT,2014-03,DQ-11,WARNING,tax percentage out of range
+ADANIGREEN,2017-03,DQ-11,WARNING,tax percentage out of range
+ADANIGREEN,2018-03,DQ-11,WARNING,tax percentage out of range
+ADANIGREEN,2019-03,DQ-11,WARNING,tax percentage out of range
+ADANIPOWER,2014-03,DQ-11,WARNING,tax percentage out of range
+ADANIPOWER,2016-03,DQ-11,WARNING,tax percentage out of range
+ADANIPOWER,2017-03,DQ-11,WARNING,tax percentage out of range
+ADANIPOWER,2023-03,DQ-11,WARNING,tax percentage out of range
+AMBUJACEM,2018-12,DQ-11,WARNING,tax percentage out of range
+APOLLOHOSP,2018-03,DQ-11,WARNING,tax percentage out of range
+AXISBANK,2018-03,DQ-11,WARNING,tax percentage out of range
+AXISBANK,2020-03,DQ-11,WARNING,tax percentage out of range
+BANKBARODA,2016-03,DQ-11,WARNING,tax percentage out of range
+BANKBARODA,2018-03,DQ-11,WARNING,tax percentage out of range
+BANKBARODA,2020-03,DQ-11,WARNING,tax percentage out of range
+BANKBARODA,2021-03,DQ-11,WARNING,tax percentage out of range
+BHARTIARTL,2014-03,DQ-11,WARNING,tax percentage out of range
+BHARTIARTL,2019-03,DQ-11,WARNING,tax percentage out of range
+BHARTIARTL,2020-03,DQ-11,WARNING,tax percentage out of range
+BHARTIARTL,2021-03,DQ-11,WARNING,tax percentage out of range
+BHEL,2016-03,DQ-11,WARNING,tax percentage out of range
+BHEL,2018-03,DQ-11,WARNING,tax percentage out of range
+BHEL,2020-03,DQ-11,WARNING,tax percentage out of range
+BHEL,2021-03,DQ-11,WARNING,tax percentage out of range
+BHEL,2024-03,DQ-11,WARNING,tax percentage out of range
+CANBK,2016-03,DQ-11,WARNING,tax percentage out of range
+CANBK,2018-03,DQ-11,WARNING,tax percentage out of range
+CANBK,2019-03,DQ-11,WARNING,tax percentage out of range
+DLF,2014-03,DQ-11,WARNING,tax percentage out of range
+DLF,2020-03,DQ-11,WARNING,tax percentage out of range
+DRREDDY,2020-03,DQ-11,WARNING,tax percentage out of range
+GODREJCP,2019-03,DQ-11,WARNING,tax percentage out of range
+GODREJCP,2024-03,DQ-11,WARNING,tax percentage out of range
+GRASIM,2020-03,DQ-11,WARNING,tax percentage out of range
+HDFCLIFE,2024-03,DQ-11,WARNING,tax percentage out of range
+HINDALCO,2015-03,DQ-11,WARNING,tax percentage out of range
+HINDALCO,2016-03,DQ-11,WARNING,tax percentage out of range
+IOC,2020-03,DQ-11,WARNING,tax percentage out of range
+IRFC,2013-03,DQ-11,WARNING,tax percentage out of range
+JINDALSTEL,2015-03,DQ-11,WARNING,tax percentage out of range
+JINDALSTEL,2016-03,DQ-11,WARNING,tax percentage out of range
+JINDALSTEL,2017-03,DQ-11,WARNING,tax percentage out of range
+JINDALSTEL,2018-03,DQ-11,WARNING,tax percentage out of range
+JINDALSTEL,2019-03,DQ-11,WARNING,tax percentage out of range
+JSWENERGY,2018-03,DQ-11,WARNING,tax percentage out of range
+JSWSTEEL,2014-03,DQ-11,WARNING,tax percentage out of range
+JSWSTEEL,2016-03,DQ-11,WARNING,tax percentage out of range
+JSWSTEEL,2020-03,DQ-11,WARNING,tax percentage out of range
+LICI,2019-03,DQ-11,WARNING,tax percentage out of range
+LICI,2020-03,DQ-11,WARNING,tax percentage out of range
+LICI,2021-03,DQ-11,WARNING,tax percentage out of range
+LICI,2022-03,DQ-11,WARNING,tax percentage out of range
+LODHA,2021-03,DQ-11,WARNING,tax percentage out of range
+LODHA,2023-03,DQ-11,WARNING,tax percentage out of range
+M&M,2020-03,DQ-11,WARNING,tax percentage out of range
+MOTHERSON,2020-03,DQ-11,WARNING,tax percentage out of range
+NAUKRI,2015-03,DQ-11,WARNING,tax percentage out of range
+NAUKRI,2017-03,DQ-11,WARNING,tax percentage out of range
+NAUKRI,2020-03,DQ-11,WARNING,tax percentage out of range
+NAUKRI,2023-03,DQ-11,WARNING,tax percentage out of range
+NHPC,2020-03,DQ-11,WARNING,tax percentage out of range
+NHPC,2022-03,DQ-11,WARNING,tax percentage out of range
+NTPC,2016-03,DQ-11,WARNING,tax percentage out of range
+NTPC,2019-03,DQ-11,WARNING,tax percentage out of range
+PNB,2016-03,DQ-11,WARNING,tax percentage out of range
+PNB,2018-03,DQ-11,WARNING,tax percentage out of range
+PNB,2019-03,DQ-11,WARNING,tax percentage out of range
+POWERGRID,2019-03,DQ-11,WARNING,tax percentage out of range
+SBIN,2017-03,DQ-11,WARNING,tax percentage out of range
+SBIN,2018-03,DQ-11,WARNING,tax percentage out of range
+SHREECEM,2015-06,DQ-11,WARNING,tax percentage out of range
+TATACONSUM,2016-03,DQ-11,WARNING,tax percentage out of range
+TATAMOTORS,2019-03,DQ-11,WARNING,tax percentage out of range
+TATAMOTORS,2024-03,DQ-11,WARNING,tax percentage out of range
+TATAPOWER,2013-03,DQ-11,WARNING,tax percentage out of range
+TATAPOWER,2014-03,DQ-11,WARNING,tax percentage out of range
+TATAPOWER,2015-03,DQ-11,WARNING,tax percentage out of range
+TATASTEEL,2013-03,DQ-11,WARNING,tax percentage out of range
+TATASTEEL,2015-03,DQ-11,WARNING,tax percentage out of range
+TATASTEEL,2016-03,DQ-11,WARNING,tax percentage out of range
+TATASTEEL,2017-03,DQ-11,WARNING,tax percentage out of range
+TATASTEEL,2020-03,DQ-11,WARNING,tax percentage out of range
+TATASTEEL,2024-03,DQ-11,WARNING,tax percentage out of range
+TRENT,2013-03,DQ-11,WARNING,tax percentage out of range
+TRENT,2014-03,DQ-11,WARNING,tax percentage out of range
+TRENT,2021-03,DQ-11,WARNING,tax percentage out of range
+TRENT,2022-03,DQ-11,WARNING,tax percentage out of range
+ULTRACEMCO,2020-03,DQ-11,WARNING,tax percentage out of range
+UNIONBANK,2017-03,DQ-11,WARNING,tax percentage out of range
+UNIONBANK,2018-03,DQ-11,WARNING,tax percentage out of range
+UNIONBANK,2019-03,DQ-11,WARNING,tax percentage out of range
+UNIONBANK,2020-03,DQ-11,WARNING,tax percentage out of range
+UNIONBANK,2021-03,DQ-11,WARNING,tax percentage out of range
+UNITDSPR,2013-03,DQ-11,WARNING,tax percentage out of range
+UNITDSPR,2016-03,DQ-11,WARNING,tax percentage out of range
+VBL,2012-12,DQ-11,WARNING,tax percentage out of range
+VBL,2013-12,DQ-11,WARNING,tax percentage out of range
+VBL,2014-12,DQ-11,WARNING,tax percentage out of range
+VEDL,2013-03,DQ-11,WARNING,tax percentage out of range
+VEDL,2014-03,DQ-11,WARNING,tax percentage out of range
+VEDL,2016-03,DQ-11,WARNING,tax percentage out of range
+VEDL,2020-03,DQ-11,WARNING,tax percentage out of range
+VEDL,2024-03,DQ-11,WARNING,tax percentage out of range
+ZOMATO,2023-03,DQ-11,WARNING,tax percentage out of range
+ZOMATO,2024-03,DQ-11,WARNING,tax percentage out of range
+INDIGO,2019-03,DQ-11,WARNING,tax percentage out of range
+INDIGO,2020-03,DQ-11,WARNING,tax percentage out of range
+INDIGO,2024-03,DQ-11,WARNING,tax percentage out of range
+BHARTIARTL,2019-03,DQ-12,WARNING,dividend payout over 200%
+BRITANNIA,2021-03,DQ-12,WARNING,dividend payout over 200%
+M&M,2020-03,DQ-12,WARNING,dividend payout over 200%
+SBIN,2017-03,DQ-12,WARNING,dividend payout over 200%
+TATAPOWER,2015-03,DQ-12,WARNING,dividend payout over 200%
+VEDL,2023-03,DQ-12,WARNING,dividend payout over 200%
+VEDL,2024-03,DQ-12,WARNING,dividend payout over 200%
+SBILIFE,N/A,DQ-13,WARNING,annual report URL invalid or unreachable
+SBILIFE,N/A,DQ-13,WARNING,annual report URL invalid or unreachable
+ICICIPRULI,N/A,DQ-13,WARNING,annual report URL invalid or unreachable
+TRENT,N/A,DQ-13,WARNING,annual report URL invalid or unreachable
+IRFC,N/A,DQ-13,WARNING,annual report URL invalid or unreachable
+TITAN,N/A,DQ-13,WARNING,annual report URL invalid or unreachable
+AXISBANK,N/A,DQ-13,WARNING,annual report URL invalid or unreachable
+JSWENERGY,2018-03,DQ-14,WARNING,EPS/profit sign mismatch
+TATAPOWER,2013-03,DQ-14,WARNING,EPS/profit sign mismatch
+TATAPOWER,2014-03,DQ-14,WARNING,EPS/profit sign mismatch
+VBL,2016-12,DQ-14,WARNING,EPS/profit sign mismatch
+ZOMATO,2024-03,DQ-14,WARNING,EPS/profit sign mismatch
+JIOFIN,2023-03,DQ-16,WARNING,company has fewer than 5 years of data
+JIOFIN,2024-03,DQ-16,WARNING,company has fewer than 5 years of data
+JIOFIN,TTM,DQ-16,WARNING,company has fewer than 5 years of data
