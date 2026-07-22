@@ -1,7 +1,8 @@
 PRAGMA foreign_keys = ON;
 
-CREATE TABLE  IF NOT EXISTS companies (
+CREATE TABLE IF NOT EXISTS companies (
     id TEXT PRIMARY KEY,
+    company_logo TEXT,
     company_name TEXT,
     face_value REAL,
     book_value REAL,

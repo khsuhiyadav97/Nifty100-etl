@@ -29,4 +29,3 @@ def load_data_into_db(db_path):
 if __name__ == "__main__":
     create_database("db/schema.sql", "data/nifty100.db")
     load_data_into_db("data/nifty100.db")
-
