@@ -3,6 +3,7 @@ import pandas as pd
 import sys
 sys.path.append('src/etl')
 from loader import load_file, load_profitandloss, load_balancesheet
+from validator import deduplicate_annual
 
 def create_database(schema_path, db_path):
     conn = sqlite3.connect(db_path)
@@ -17,7 +18,10 @@ def load_data_into_db(db_path):
 
     df_companies = load_file("data/n100/companies.xlsx")
     df_pl = load_profitandloss("data/n100/profitandloss.xlsx")
+    df_pl, _ = deduplicate_annual(df_pl)
+
     df_bs = load_balancesheet("data/n100/balancesheet.xlsx")
+    df_bs, _ = deduplicate_annual(df_bs)
 
     df_companies.to_sql('companies', conn, if_exists='append', index=False)
     df_pl.to_sql('profitandloss', conn, if_exists='append', index=False)
