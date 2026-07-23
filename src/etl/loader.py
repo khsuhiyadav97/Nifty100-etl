@@ -35,9 +35,36 @@ def load_documents(filename):
     return df
 
 
+def load_analysis(filename):
+    df = pd.read_excel(filename, header=1)
+    df["company_id"] = df["company_id"].apply(normalize_ticker)
+    return df
+
+
+def load_prosandcons(filename):
+    df = pd.read_excel(filename, header=1)
+    df["company_id"] = df["company_id"].apply(normalize_ticker)
+    return df
+
+
+def load_sectors(filename):
+    df = pd.read_excel(filename, header=0)
+    df["company_id"] = df["company_id"].apply(normalize_ticker)
+    return df
+
+
+def load_market_cap(filename):
+    df = pd.read_excel(filename, header=0)
+    df["company_id"] = df["company_id"].apply(normalize_ticker)
+    return df
+
+
+def load_stock_prices(filename):
+    df = pd.read_excel(filename, header=0)
+    df["company_id"] = df["company_id"].apply(normalize_ticker)
+    return df
+
+
 if __name__ == "__main__":
     df = load_file("data/n100/companies.xlsx")
     print(df.head())
-
-    df_pl = load_profitandloss("data/n100/profitandloss.xlsx")
-    print(df_pl[['company_id', 'year']].head())

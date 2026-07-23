@@ -52,3 +52,79 @@ CREATE TABLE IF NOT EXISTS balancesheet (
     PRIMARY KEY (company_id, year),
     FOREIGN KEY (company_id) REFERENCES companies(id)
 );
+
+CREATE TABLE IF NOT EXISTS cashflow (
+    id INTEGER,
+    company_id TEXT,
+    year TEXT,
+    operating_activity REAL,
+    investing_activity REAL,
+    financing_activity REAL,
+    net_cash_flow REAL,
+    PRIMARY KEY (company_id, year),
+    FOREIGN KEY (company_id) REFERENCES companies(id)
+);
+
+CREATE TABLE IF NOT EXISTS analysis (
+    id INTEGER PRIMARY KEY,
+    company_id TEXT,
+    compounded_sales_growth TEXT,
+    compounded_profit_growth TEXT,
+    stock_price_cagr TEXT,
+    roe TEXT,
+    FOREIGN KEY (company_id) REFERENCES companies(id)
+);
+
+CREATE TABLE IF NOT EXISTS documents (
+    id INTEGER PRIMARY KEY,
+    company_id TEXT,
+    Year INTEGER,
+    Annual_Report TEXT,
+    FOREIGN KEY (company_id) REFERENCES companies(id)
+);
+
+CREATE TABLE IF NOT EXISTS prosandcons (
+    id INTEGER PRIMARY KEY,
+    company_id TEXT,
+    pros TEXT,
+    cons TEXT,
+    FOREIGN KEY (company_id) REFERENCES companies(id)
+);
+
+CREATE TABLE IF NOT EXISTS sectors (
+    id INTEGER,
+    company_id TEXT PRIMARY KEY,
+    broad_sector TEXT,
+    sub_sector TEXT,
+    index_weight_pct REAL,
+    market_cap_category TEXT,
+    FOREIGN KEY (company_id) REFERENCES companies(id)
+);
+
+CREATE TABLE IF NOT EXISTS market_cap (
+    id INTEGER,
+    company_id TEXT,
+    year INTEGER,
+    market_cap_crore REAL,
+    enterprise_value_crore REAL,
+    pe_ratio REAL,
+    pb_ratio REAL,
+    ev_ebitda REAL,
+    dividend_yield_pct REAL,
+    PRIMARY KEY (company_id, year),
+    FOREIGN KEY (company_id) REFERENCES companies(id)
+);
+
+CREATE TABLE IF NOT EXISTS stock_prices (
+    id INTEGER,
+    company_id TEXT,
+    date TEXT,
+    open_price REAL,
+    high_price REAL,
+    low_price REAL,
+    close_price REAL,
+    volume INTEGER,
+    adjusted_close REAL,
+    PRIMARY KEY (company_id, date),
+    FOREIGN KEY (company_id) REFERENCES companies(id)
+);
