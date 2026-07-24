@@ -86,7 +86,7 @@ def load_data_into_db(db_path):
 
     conn.close()
 
-    # Write load_audit.csv
+    #load_audit.csv
     os.makedirs("output", exist_ok=True)
     audit_df = pd.DataFrame(audit_records)
     audit_df.to_csv("output/load_audit.csv", index=False)

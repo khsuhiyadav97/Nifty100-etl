@@ -5,9 +5,9 @@ def normalize_ticker(ticker):
 
 
 def normalize_year(year_value):
-        year = str(year_value).strip() # Clean whitespaces 
+        year = str(year_value).strip()
 
-         # TTM(Trailing twelve months)- Not a real date
+         # TTM (Trailing twelve months)- Not a real date
         if year.upper() == "TTM":
                 return "TTM"
 
