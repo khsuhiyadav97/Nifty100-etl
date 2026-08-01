@@ -1,0 +1,366 @@
+company_id,year,broad_sector,computed_roe_pct,sector_flag,reference_roce_pct,anomaly_note
+ABB,2012-12,Industrials,22.411128284389488,Above Sector Range,46.0,Diff of 23.6 pts vs reference
+ABB,2014-03,Industrials,25.12690355329949,Above Sector Range,46.0,Diff of 20.9 pts vs reference
+ABB,2015-03,Industrials,24.439701173959445,Above Sector Range,46.0,Diff of 21.6 pts vs reference
+ABB,2016-03,Industrials,21.338912133891213,Within Sector Range,46.0,Diff of 24.7 pts vs reference
+ABB,2017-03,Industrials,19.971160778658977,Within Sector Range,46.0,Diff of 26.0 pts vs reference
+ABB,2018-03,Industrials,23.685764914353218,Above Sector Range,46.0,Diff of 22.3 pts vs reference
+ABB,2019-03,Industrials,22.410358565737052,Above Sector Range,46.0,Diff of 23.6 pts vs reference
+ABB,2020-03,Industrials,24.39325380501851,Above Sector Range,46.0,Diff of 21.6 pts vs reference
+ABB,2021-03,Industrials,26.5564950038432,Above Sector Range,46.0,Diff of 19.4 pts vs reference
+ABB,2022-03,Industrials,28.333333333333332,Above Sector Range,46.0,Diff of 17.7 pts vs reference
+ABB,2023-03,Industrials,29.767879548306148,Above Sector Range,46.0,Diff of 16.2 pts vs reference
+ABB,2024-03,Industrials,32.46823465801568,Above Sector Range,46.0,Diff of 13.5 pts vs reference
+ADANIGREEN,2017-03,Energy,-3.906899418121363,Below Sector Range,96.5,Diff of 100.4 pts vs reference
+ADANIGREEN,2018-03,Energy,-10.290827740492169,Below Sector Range,96.5,Diff of 106.8 pts vs reference
+ADANIGREEN,2019-03,Energy,-24.573202276254527,Below Sector Range,96.5,Diff of 121.1 pts vs reference
+ADANIGREEN,2020-03,Energy,-2.8850233347475602,Below Sector Range,96.5,Diff of 99.4 pts vs reference
+ADANIGREEN,2021-03,Energy,8.272727272727273,Within Sector Range,96.5,Diff of 88.2 pts vs reference
+ADANIGREEN,2022-03,Energy,18.706962509563887,Above Sector Range,96.5,Diff of 77.8 pts vs reference
+ADANIGREEN,2023-03,Energy,13.321467688937568,Within Sector Range,96.5,Diff of 83.2 pts vs reference
+ADANIGREEN,2024-03,Energy,12.812690665039659,Within Sector Range,96.5,Diff of 83.7 pts vs reference
+ADANIPORTS,2013-03,Industrials,25.633406318423525,Above Sector Range,12.9,Diff of 12.7 pts vs reference
+ADANIPOWER,2013-03,Energy,-53.459119496855344,Below Sector Range,32.2,Diff of 85.7 pts vs reference
+ADANIPOWER,2014-03,Energy,-4.447501146263182,Below Sector Range,32.2,Diff of 36.6 pts vs reference
+ADANIPOWER,2015-03,Energy,-14.253275109170305,Below Sector Range,32.2,Diff of 46.5 pts vs reference
+ADANIPOWER,2016-03,Energy,7.378146759507231,Below Sector Range,32.2,Diff of 24.8 pts vs reference
+ADANIPOWER,2017-03,Energy,-205.79999999999998,Below Sector Range,32.2,Diff of 238.0 pts vs reference
+ADANIPOWER,2018-03,Energy,-236.55793025871765,Below Sector Range,32.2,Diff of 268.8 pts vs reference
+ADANIPOWER,2019-03,Energy,-12.759336099585061,Below Sector Range,32.2,Diff of 45.0 pts vs reference
+ADANIPOWER,2020-03,Energy,-35.102607622280516,Below Sector Range,32.2,Diff of 67.3 pts vs reference
+ADANIPOWER,2021-03,Energy,9.685045374818882,Within Sector Range,32.2,Diff of 22.5 pts vs reference
+ADANIPOWER,2024-03,Energy,48.27674122146251,Above Sector Range,32.2,Diff of 16.1 pts vs reference
+APOLLOHOSP,2016-03,Healthcare,7.052821128451381,Below Sector Range,17.2,Diff of 10.1 pts vs reference
+APOLLOHOSP,2017-03,Healthcare,3.952926976463488,Below Sector Range,17.2,Diff of 13.2 pts vs reference
+APOLLOHOSP,2018-03,Healthcare,1.8450184501845017,Below Sector Range,17.2,Diff of 15.4 pts vs reference
+APOLLOHOSP,2019-03,Healthcare,5.9988002399520095,Below Sector Range,17.2,Diff of 11.2 pts vs reference
+APOLLOHOSP,2021-03,Healthcare,2.976319791440365,Below Sector Range,17.2,Diff of 14.2 pts vs reference
+ASIANPAINT,2014-03,Materials,31.27011636543699,Above Sector Range,41.75,Diff of 10.5 pts vs reference
+ASIANPAINT,2015-03,Materials,30.09278785322649,Above Sector Range,41.75,Diff of 11.7 pts vs reference
+ASIANPAINT,2016-03,Materials,27.632183908045977,Above Sector Range,41.75,Diff of 14.1 pts vs reference
+ASIANPAINT,2017-03,Materials,26.512361914781696,Above Sector Range,41.75,Diff of 15.2 pts vs reference
+ASIANPAINT,2018-03,Materials,24.94649227110583,Within Sector Range,41.75,Diff of 16.8 pts vs reference
+ASIANPAINT,2019-03,Materials,23.3132720937599,Within Sector Range,41.75,Diff of 18.4 pts vs reference
+ASIANPAINT,2020-03,Materials,27.38400789733465,Above Sector Range,41.75,Diff of 14.4 pts vs reference
+ASIANPAINT,2021-03,Materials,25.042948617835393,Above Sector Range,41.75,Diff of 16.7 pts vs reference
+ASIANPAINT,2022-03,Materials,22.335650159281784,Within Sector Range,41.75,Diff of 19.4 pts vs reference
+ASIANPAINT,2023-03,Materials,26.231865932966482,Above Sector Range,41.75,Diff of 15.5 pts vs reference
+ASIANPAINT,2024-03,Materials,29.677488252883382,Above Sector Range,41.75,Diff of 12.1 pts vs reference
+BAJAJ-AUTO,2017-03,Consumer Discretionary,22.843862007168457,Within Sector Range,33.5,Diff of 10.7 pts vs reference
+BAJAJ-AUTO,2018-03,Consumer Discretionary,20.656058751529986,Within Sector Range,33.5,Diff of 12.8 pts vs reference
+BAJAJ-AUTO,2019-03,Consumer Discretionary,21.211208195239532,Within Sector Range,33.5,Diff of 12.3 pts vs reference
+BAJAJ-AUTO,2021-03,Consumer Discretionary,17.808821911780882,Within Sector Range,33.5,Diff of 15.7 pts vs reference
+BAJAJ-AUTO,2022-03,Consumer Discretionary,20.650390167118793,Within Sector Range,33.5,Diff of 12.8 pts vs reference
+BAJAJ-AUTO,2023-03,Consumer Discretionary,20.638921054424088,Within Sector Range,33.5,Diff of 12.9 pts vs reference
+BANKBARODA,2016-03,Financials,-11.841517069383338,Below Sector Range,6.33,Diff of 18.2 pts vs reference
+BANKBARODA,2018-03,Financials,-3.9427908774642444,Below Sector Range,6.33,Diff of 10.3 pts vs reference
+BHARTIARTL,2019-03,Communication Services,2.3633843439788302,Below Sector Range,13.1,Diff of 10.7 pts vs reference
+BHARTIARTL,2020-03,Communication Services,-39.748525503921186,Below Sector Range,13.1,Diff of 52.8 pts vs reference
+BHARTIARTL,2021-03,Communication Services,-20.972639221074417,Below Sector Range,13.1,Diff of 34.1 pts vs reference
+BEL,2013-03,Industrials,15183.333333333334,Above Sector Range,34.6,Diff of 15148.7 pts vs reference
+BEL,2014-03,Industrials,13600.0,Above Sector Range,34.6,Diff of 13565.4 pts vs reference
+BEL,2015-03,Industrials,17100.0,Above Sector Range,34.6,Diff of 17065.4 pts vs reference
+BEL,2016-03,Industrials,11141.666666666668,Above Sector Range,34.6,Diff of 11107.1 pts vs reference
+BEL,2017-03,Industrials,10153.333333333334,Above Sector Range,34.6,Diff of 10118.7 pts vs reference
+BEL,2018-03,Industrials,4616.129032258064,Above Sector Range,34.6,Diff of 4581.5 pts vs reference
+BEL,2019-03,Industrials,3851.020408163265,Above Sector Range,34.6,Diff of 3816.4 pts vs reference
+BEL,2020-03,Industrials,3318.181818181818,Above Sector Range,34.6,Diff of 3283.6 pts vs reference
+BEL,2021-03,Industrials,3559.322033898305,Above Sector Range,34.6,Diff of 3524.7 pts vs reference
+BEL,2022-03,Industrials,3478.260869565217,Above Sector Range,34.6,Diff of 3443.7 pts vs reference
+BEL,2023-03,Industrials,3981.333333333333,Above Sector Range,34.6,Diff of 3946.7 pts vs reference
+BEL,2024-03,Industrials,4744.047619047619,Above Sector Range,34.6,Diff of 4709.4 pts vs reference
+BHEL,2013-03,Industrials,21.90906412648532,Within Sector Range,3.28,Diff of 18.6 pts vs reference
+BHEL,2021-03,Industrials,-10.391409767925182,Below Sector Range,3.28,Diff of 13.7 pts vs reference
+BOSCHLTD,2020-03,Consumer Discretionary,7.011866235167206,Below Sector Range,20.6,Diff of 13.6 pts vs reference
+BOSCHLTD,2021-03,Consumer Discretionary,4.9068512674335745,Below Sector Range,20.6,Diff of 15.7 pts vs reference
+BPCL,2013-03,Energy,11.540983606557377,Within Sector Range,32.1,Diff of 20.6 pts vs reference
+BPCL,2014-03,Energy,20.848765432098766,Above Sector Range,32.1,Diff of 11.3 pts vs reference
+BPCL,2019-03,Energy,21.999226106023475,Above Sector Range,32.1,Diff of 10.1 pts vs reference
+BPCL,2020-03,Energy,10.035037775101282,Within Sector Range,32.1,Diff of 22.1 pts vs reference
+BPCL,2023-03,Energy,3.9815403011845594,Below Sector Range,32.1,Diff of 28.1 pts vs reference
+BRITANNIA,2017-03,Consumer Staples,32.826409495548965,Within Sector Range,48.9,Diff of 16.1 pts vs reference
+BRITANNIA,2018-03,Consumer Staples,29.47739283617146,Within Sector Range,48.9,Diff of 19.4 pts vs reference
+BRITANNIA,2019-03,Consumer Staples,27.157300728897248,Within Sector Range,48.9,Diff of 21.7 pts vs reference
+BRITANNIA,2020-03,Consumer Staples,31.66023166023166,Within Sector Range,48.9,Diff of 17.2 pts vs reference
+BRITANNIA,2022-03,Consumer Staples,59.26505082095387,Above Sector Range,48.9,Diff of 10.4 pts vs reference
+BRITANNIA,2023-03,Consumer Staples,65.53480475382003,Above Sector Range,48.9,Diff of 16.6 pts vs reference
+CANBK,2016-03,Financials,-7.821659981487196,Below Sector Range,6.63,Diff of 14.5 pts vs reference
+CANBK,2018-03,Financials,-10.496788356776973,Below Sector Range,6.63,Diff of 17.1 pts vs reference
+CANBK,2020-03,Financials,-4.661942435567636,Below Sector Range,6.63,Diff of 11.3 pts vs reference
+CANBK,2024-03,Financials,16.716051794688113,Within Sector Range,6.63,Diff of 10.1 pts vs reference
+CIPLA,2015-03,Healthcare,11.377522680985003,Below Sector Range,22.8,Diff of 11.4 pts vs reference
+CIPLA,2016-03,Healthcare,12.00833550403751,Below Sector Range,22.8,Diff of 10.8 pts vs reference
+CIPLA,2017-03,Healthcare,8.250956632653061,Below Sector Range,22.8,Diff of 14.5 pts vs reference
+CIPLA,2018-03,Healthcare,9.958535385480358,Below Sector Range,22.8,Diff of 12.8 pts vs reference
+CIPLA,2019-03,Healthcare,9.938715694111377,Below Sector Range,22.8,Diff of 12.9 pts vs reference
+CIPLA,2020-03,Healthcare,9.515955084692001,Below Sector Range,22.8,Diff of 13.3 pts vs reference
+CIPLA,2022-03,Healthcare,12.221102634230602,Below Sector Range,22.8,Diff of 10.6 pts vs reference
+CIPLA,2023-03,Healthcare,12.103216986371597,Below Sector Range,22.8,Diff of 10.7 pts vs reference
+COALINDIA,2013-03,Materials,35.80623865324311,Above Sector Range,63.6,Diff of 27.8 pts vs reference
+COALINDIA,2014-03,Materials,35.63814734459013,Above Sector Range,63.6,Diff of 28.0 pts vs reference
+COALINDIA,2015-03,Materials,34.01729735087849,Above Sector Range,63.6,Diff of 29.6 pts vs reference
+COALINDIA,2016-03,Materials,40.95828668216921,Above Sector Range,63.6,Diff of 22.6 pts vs reference
+COALINDIA,2017-03,Materials,37.84974304592544,Above Sector Range,63.6,Diff of 25.8 pts vs reference
+COALINDIA,2018-03,Materials,34.87957181088314,Above Sector Range,63.6,Diff of 28.7 pts vs reference
+COALINDIA,2020-03,Materials,51.93270516528283,Above Sector Range,63.6,Diff of 11.7 pts vs reference
+COALINDIA,2021-03,Materials,34.78284681526918,Above Sector Range,63.6,Diff of 28.8 pts vs reference
+COALINDIA,2022-03,Materials,40.27999907285075,Above Sector Range,63.6,Diff of 23.3 pts vs reference
+COALINDIA,2023-03,Materials,52.13911214108443,Above Sector Range,63.6,Diff of 11.5 pts vs reference
+COALINDIA,2024-03,Materials,45.16982956605826,Above Sector Range,63.6,Diff of 18.4 pts vs reference
+DABUR,2013-03,Consumer Staples,36.563245823389025,Within Sector Range,22.3,Diff of 14.3 pts vs reference
+DABUR,2014-03,Consumer Staples,34.48795180722892,Within Sector Range,22.3,Diff of 12.2 pts vs reference
+DMART,2021-03,Consumer Discretionary,9.020026263952726,Below Sector Range,19.4,Diff of 10.4 pts vs reference
+DRREDDY,2017-03,Healthcare,10.536617191322787,Below Sector Range,26.5,Diff of 16.0 pts vs reference
+DRREDDY,2018-03,Healthcare,7.532612153993,Below Sector Range,26.5,Diff of 19.0 pts vs reference
+DRREDDY,2019-03,Healthcare,13.904734740444951,Below Sector Range,26.5,Diff of 12.6 pts vs reference
+DRREDDY,2020-03,Healthcare,12.988012052054618,Below Sector Range,26.5,Diff of 13.5 pts vs reference
+DRREDDY,2021-03,Healthcare,11.06513236211099,Below Sector Range,26.5,Diff of 15.4 pts vs reference
+DRREDDY,2022-03,Healthcare,11.35748490526754,Below Sector Range,26.5,Diff of 15.1 pts vs reference
+EICHERMOT,2020-03,Consumer Discretionary,18.30477908025248,Within Sector Range,31.1,Diff of 12.8 pts vs reference
+EICHERMOT,2021-03,Consumer Discretionary,11.776534359153699,Within Sector Range,31.1,Diff of 19.3 pts vs reference
+EICHERMOT,2022-03,Consumer Discretionary,13.301078680203046,Within Sector Range,31.1,Diff of 17.8 pts vs reference
+EICHERMOT,2023-03,Consumer Discretionary,19.43962641761174,Within Sector Range,31.1,Diff of 11.7 pts vs reference
+GODREJCP,2022-03,Consumer Staples,15.429214260989962,Below Sector Range,26.49,Diff of 11.1 pts vs reference
+GODREJCP,2023-03,Consumer Staples,12.338697984630999,Below Sector Range,26.49,Diff of 14.2 pts vs reference
+GODREJCP,2024-03,Consumer Staples,-4.45308779171297,Below Sector Range,26.49,Diff of 30.9 pts vs reference
+HAL,2016-03,Industrials,1664.9999999999998,Above Sector Range,38.9,Diff of 1626.1 pts vs reference
+HAL,2017-03,Industrials,1966.9172932330828,Above Sector Range,38.9,Diff of 1928.0 pts vs reference
+HAL,2018-03,Industrials,1528.4615384615386,Above Sector Range,38.9,Diff of 1489.6 pts vs reference
+HAL,2019-03,Industrials,1763.9097744360904,Above Sector Range,38.9,Diff of 1725.0 pts vs reference
+HAL,2020-03,Industrials,2059.4202898550725,Above Sector Range,38.9,Diff of 2020.5 pts vs reference
+HAL,2021-03,Industrials,2249.3055555555557,Above Sector Range,38.9,Diff of 2210.4 pts vs reference
+HAL,2022-03,Industrials,3324.183006535948,Above Sector Range,38.9,Diff of 3285.3 pts vs reference
+HAL,2023-03,Industrials,3283.050847457627,Above Sector Range,38.9,Diff of 3244.2 pts vs reference
+HAL,2024-03,Industrials,3816.5829145728644,Above Sector Range,38.9,Diff of 3777.7 pts vs reference
+HAVELLS,2013-03,Industrials,40.29126213592233,Above Sector Range,24.4,Diff of 15.9 pts vs reference
+HAVELLS,2016-03,Industrials,42.94681202510737,Above Sector Range,24.4,Diff of 18.5 pts vs reference
+HCLTECH,2021-03,Information Technology,18.64203094487006,Below Sector Range,29.6,Diff of 11.0 pts vs reference
+HDFCBANK,2013-03,Financials,18.838523046693776,Within Sector Range,7.67,Diff of 11.2 pts vs reference
+HDFCBANK,2014-03,Financials,19.851925645844183,Within Sector Range,7.67,Diff of 12.2 pts vs reference
+HDFCLIFE,2013-03,Financials,33.43305908750935,Above Sector Range,6.61,Diff of 26.8 pts vs reference
+HDFCLIFE,2014-03,Financials,37.60373443983403,Above Sector Range,6.61,Diff of 31.0 pts vs reference
+HDFCLIFE,2015-03,Financials,30.932703659976386,Above Sector Range,6.61,Diff of 24.3 pts vs reference
+HDFCLIFE,2016-03,Financials,26.32935868514341,Above Sector Range,6.61,Diff of 19.7 pts vs reference
+HDFCLIFE,2017-03,Financials,23.183481442760062,Above Sector Range,6.61,Diff of 16.6 pts vs reference
+HDFCLIFE,2018-03,Financials,23.52816153028693,Above Sector Range,6.61,Diff of 16.9 pts vs reference
+HDFCLIFE,2019-03,Financials,22.651542006380716,Above Sector Range,6.61,Diff of 16.0 pts vs reference
+HDFCLIFE,2020-03,Financials,19.05391508741002,Within Sector Range,6.61,Diff of 12.4 pts vs reference
+HEROMOTOCO,2021-03,Consumer Discretionary,19.045147898287492,Within Sector Range,29.1,Diff of 10.1 pts vs reference
+HEROMOTOCO,2022-03,Consumer Discretionary,14.696788035590332,Within Sector Range,29.1,Diff of 14.4 pts vs reference
+HEROMOTOCO,2023-03,Consumer Discretionary,16.810758885686838,Within Sector Range,29.1,Diff of 12.3 pts vs reference
+HINDALCO,2015-03,Materials,0.6757285606198962,Below Sector Range,11.3,Diff of 10.6 pts vs reference
+HINDALCO,2016-03,Materials,-1.7286808342978157,Below Sector Range,11.3,Diff of 13.0 pts vs reference
+HINDUNILVR,2013-03,Consumer Staples,133.99650959860384,Above Sector Range,27.2,Diff of 106.8 pts vs reference
+HINDUNILVR,2014-03,Consumer Staples,111.84619734238055,Above Sector Range,27.2,Diff of 84.6 pts vs reference
+HINDUNILVR,2015-03,Consumer Staples,108.66650111745717,Above Sector Range,27.2,Diff of 81.5 pts vs reference
+HINDUNILVR,2016-03,Consumer Staples,63.15228966986155,Above Sector Range,27.2,Diff of 36.0 pts vs reference
+HINDUNILVR,2017-03,Consumer Staples,66.57769869513642,Above Sector Range,27.2,Diff of 39.4 pts vs reference
+HINDUNILVR,2018-03,Consumer Staples,71.78958934212334,Above Sector Range,27.2,Diff of 44.6 pts vs reference
+HINDUNILVR,2019-03,Consumer Staples,77.03063429515699,Above Sector Range,27.2,Diff of 49.8 pts vs reference
+HINDUNILVR,2020-03,Consumer Staples,82.09989063069631,Above Sector Range,27.2,Diff of 54.9 pts vs reference
+HINDUNILVR,2021-03,Consumer Staples,16.778537567646936,Below Sector Range,27.2,Diff of 10.4 pts vs reference
+ICICIBANK,2024-03,Financials,17.99027109750765,Within Sector Range,7.6,Diff of 10.4 pts vs reference
+ICICIPRULI,2013-03,Financials,38.24791719262812,Above Sector Range,8.75,Diff of 29.5 pts vs reference
+ICICIPRULI,2014-03,Financials,35.614875655943415,Above Sector Range,8.75,Diff of 26.9 pts vs reference
+ICICIPRULI,2015-03,Financials,31.14909781576448,Above Sector Range,8.75,Diff of 22.4 pts vs reference
+ICICIPRULI,2016-03,Financials,30.99755776817584,Above Sector Range,8.75,Diff of 22.2 pts vs reference
+ICICIPRULI,2017-03,Financials,26.256634405245084,Above Sector Range,8.75,Diff of 17.5 pts vs reference
+ICICIPRULI,2018-03,Financials,24.627319744447824,Above Sector Range,8.75,Diff of 15.9 pts vs reference
+INFY,2013-03,Information Technology,24.81707638048113,Below Sector Range,40.0,Diff of 15.2 pts vs reference
+INFY,2014-03,Information Technology,23.92993487536492,Below Sector Range,40.0,Diff of 16.1 pts vs reference
+INFY,2015-03,Information Technology,24.385052034058656,Below Sector Range,40.0,Diff of 15.6 pts vs reference
+INFY,2016-03,Information Technology,21.84665716506867,Below Sector Range,40.0,Diff of 18.2 pts vs reference
+INFY,2017-03,Information Technology,20.80687715635963,Below Sector Range,40.0,Diff of 19.2 pts vs reference
+INFY,2018-03,Information Technology,24.689247262141308,Below Sector Range,40.0,Diff of 15.3 pts vs reference
+INFY,2019-03,Information Technology,23.726673646609594,Below Sector Range,40.0,Diff of 16.3 pts vs reference
+INFY,2020-03,Information Technology,25.422459893048128,Within Sector Range,40.0,Diff of 14.6 pts vs reference
+INFY,2021-03,Information Technology,25.43909051616875,Within Sector Range,40.0,Diff of 14.6 pts vs reference
+INFY,2022-03,Information Technology,29.39084273390843,Within Sector Range,40.0,Diff of 10.6 pts vs reference
+INFY,2024-03,Information Technology,29.788006718416632,Within Sector Range,40.0,Diff of 10.2 pts vs reference
+IOC,2013-03,Energy,5.753763662610847,Below Sector Range,21.31,Diff of 15.6 pts vs reference
+IOC,2014-03,Energy,10.258713353849778,Within Sector Range,21.31,Diff of 11.1 pts vs reference
+IOC,2015-03,Energy,7.078103207810321,Below Sector Range,21.31,Diff of 14.2 pts vs reference
+IOC,2020-03,Energy,-1.9664982494391918,Below Sector Range,21.31,Diff of 23.3 pts vs reference
+IOC,2023-03,Energy,8.37669355358178,Within Sector Range,21.31,Diff of 12.9 pts vs reference
+IRCTC,2015-03,Consumer Discretionary,29.504504504504503,Above Sector Range,53.8,Diff of 24.3 pts vs reference
+IRCTC,2016-03,Consumer Discretionary,34.87084870848708,Above Sector Range,53.8,Diff of 18.9 pts vs reference
+IRCTC,2017-03,Consumer Discretionary,29.09783989834816,Above Sector Range,53.8,Diff of 24.7 pts vs reference
+IRCTC,2018-03,Consumer Discretionary,23.141361256544503,Within Sector Range,53.8,Diff of 30.7 pts vs reference
+IRCTC,2019-03,Consumer Discretionary,28.851540616246496,Above Sector Range,53.8,Diff of 24.9 pts vs reference
+IRCTC,2020-03,Consumer Discretionary,39.04109589041096,Above Sector Range,53.8,Diff of 14.8 pts vs reference
+IRCTC,2021-03,Consumer Discretionary,12.843406593406591,Within Sector Range,53.8,Diff of 41.0 pts vs reference
+IRCTC,2022-03,Consumer Discretionary,35.294117647058826,Above Sector Range,53.8,Diff of 18.5 pts vs reference
+IRCTC,2023-03,Consumer Discretionary,40.597255851493145,Above Sector Range,53.8,Diff of 13.2 pts vs reference
+IRCTC,2024-03,Consumer Discretionary,34.39628482972136,Above Sector Range,53.8,Diff of 19.4 pts vs reference
+ITC,2016-03,Consumer Staples,22.261012183692596,Within Sector Range,34.76,Diff of 12.5 pts vs reference
+ITC,2017-03,Consumer Staples,22.57341693060134,Within Sector Range,34.76,Diff of 12.2 pts vs reference
+ITC,2018-03,Consumer Staples,21.88725956960579,Within Sector Range,34.76,Diff of 12.9 pts vs reference
+ITC,2019-03,Consumer Staples,21.70406317106576,Within Sector Range,34.76,Diff of 13.1 pts vs reference
+ITC,2020-03,Consumer Staples,23.88889740015014,Within Sector Range,34.76,Diff of 10.9 pts vs reference
+ITC,2021-03,Consumer Staples,22.17674449434106,Within Sector Range,34.76,Diff of 12.6 pts vs reference
+JINDALSTEL,2015-03,Materials,-6.900484744796122,Below Sector Range,13.2,Diff of 20.1 pts vs reference
+JINDALSTEL,2016-03,Materials,-9.517203107658158,Below Sector Range,13.2,Diff of 22.7 pts vs reference
+JINDALSTEL,2017-03,Materials,-8.44564240790656,Below Sector Range,13.2,Diff of 21.6 pts vs reference
+JINDALSTEL,2018-03,Materials,-5.3184136909659365,Below Sector Range,13.2,Diff of 18.5 pts vs reference
+JINDALSTEL,2019-03,Materials,-7.517531556802244,Below Sector Range,13.2,Diff of 20.7 pts vs reference
+JINDALSTEL,2020-03,Materials,-1.2446712512057752,Below Sector Range,13.2,Diff of 14.4 pts vs reference
+JSWSTEEL,2014-03,Materials,1.8985548313969962,Below Sector Range,13.36,Diff of 11.5 pts vs reference
+JSWSTEEL,2016-03,Materials,-2.536117262469683,Below Sector Range,13.36,Diff of 15.9 pts vs reference
+JSWSTEEL,2022-03,Materials,31.112828209281247,Above Sector Range,13.36,Diff of 17.8 pts vs reference
+LICI,2019-03,Financials,324.32098765432096,Above Sector Range,63.79,Diff of 260.5 pts vs reference
+LICI,2020-03,Financials,270.45908183632736,Above Sector Range,63.79,Diff of 206.7 pts vs reference
+LICI,2021-03,Financials,43.201626961069145,Above Sector Range,63.79,Diff of 20.6 pts vs reference
+LICI,2022-03,Financials,36.38207796789557,Above Sector Range,63.79,Diff of 27.4 pts vs reference
+LICI,2023-03,Financials,77.85997015119071,Above Sector Range,63.79,Diff of 14.1 pts vs reference
+LICI,2024-03,Financials,49.44710986501021,Above Sector Range,63.79,Diff of 14.3 pts vs reference
+LODHA,2011-03,Real Estate,35.483870967741936,Above Sector Range,11.1,Diff of 24.4 pts vs reference
+LODHA,2012-03,Real Estate,33.83658969804618,Above Sector Range,11.1,Diff of 22.7 pts vs reference
+LODHA,2015-03,Real Estate,24.225865209471767,Above Sector Range,11.1,Diff of 13.1 pts vs reference
+LODHA,2019-03,Real Estate,42.80135381411091,Above Sector Range,11.1,Diff of 31.7 pts vs reference
+LODHA,2021-03,Real Estate,1.0437051532941943,Below Sector Range,11.1,Diff of 10.1 pts vs reference
+LT,2013-03,Industrials,395.1456310679612,Above Sector Range,17.18,Diff of 378.0 pts vs reference
+LT,2014-03,Industrials,303.41614906832297,Above Sector Range,17.18,Diff of 286.2 pts vs reference
+LT,2015-03,Industrials,245.11352418558738,Above Sector Range,17.18,Diff of 227.9 pts vs reference
+LT,2016-03,Industrials,216.09411764705882,Above Sector Range,17.18,Diff of 198.9 pts vs reference
+LT,2017-03,Industrials,206.29770992366412,Above Sector Range,17.18,Diff of 189.1 pts vs reference
+LT,2018-03,Industrials,207.3575129533679,Above Sector Range,17.18,Diff of 190.2 pts vs reference
+LT,2019-03,Industrials,208.80850194154914,Above Sector Range,17.18,Diff of 191.6 pts vs reference
+LT,2020-03,Industrials,201.59141376757955,Above Sector Range,17.18,Diff of 184.4 pts vs reference
+LT,2021-03,Industrials,176.90306681270536,Above Sector Range,17.18,Diff of 159.7 pts vs reference
+LT,2022-03,Industrials,72.92133258678611,Above Sector Range,17.18,Diff of 55.7 pts vs reference
+LT,2023-03,Industrials,75.52434908389586,Above Sector Range,17.18,Diff of 58.3 pts vs reference
+LT,2024-03,Industrials,77.66510140873214,Above Sector Range,17.18,Diff of 60.5 pts vs reference
+LTIM,2014-03,Information Technology,61.86335403726708,Above Sector Range,34.1,Diff of 27.8 pts vs reference
+LTIM,2024-03,Information Technology,22.904386052552702,Below Sector Range,34.1,Diff of 11.2 pts vs reference
+M&M,2015-03,Consumer Discretionary,13.075762849518505,Within Sector Range,26.98,Diff of 13.9 pts vs reference
+M&M,2016-03,Consumer Discretionary,13.41537067794051,Within Sector Range,26.98,Diff of 13.6 pts vs reference
+M&M,2017-03,Consumer Discretionary,13.604002955201826,Within Sector Range,26.98,Diff of 13.4 pts vs reference
+M&M,2019-03,Consumer Discretionary,15.0488957807068,Within Sector Range,26.98,Diff of 11.9 pts vs reference
+M&M,2020-03,Consumer Discretionary,-0.8031224198754034,Below Sector Range,26.98,Diff of 27.8 pts vs reference
+M&M,2021-03,Consumer Discretionary,3.636188735510557,Below Sector Range,26.98,Diff of 23.3 pts vs reference
+M&M,2022-03,Consumer Discretionary,15.391634658234832,Within Sector Range,26.98,Diff of 11.6 pts vs reference
+MARUTI,2013-03,Consumer Discretionary,12.980870296405298,Within Sector Range,23.67,Diff of 10.7 pts vs reference
+MARUTI,2014-03,Consumer Discretionary,13.276888723483438,Within Sector Range,23.67,Diff of 10.4 pts vs reference
+MARUTI,2020-03,Consumer Discretionary,11.490903203610387,Within Sector Range,23.67,Diff of 12.2 pts vs reference
+MARUTI,2021-03,Consumer Discretionary,8.359840764937811,Below Sector Range,23.67,Diff of 15.3 pts vs reference
+MARUTI,2022-03,Consumer Discretionary,7.012090434279725,Below Sector Range,23.67,Diff of 16.7 pts vs reference
+MARUTI,2023-03,Consumer Discretionary,11.077747989276139,Within Sector Range,23.67,Diff of 12.6 pts vs reference
+MOTHERSON,2014-03,Consumer Discretionary,37.07333558634674,Above Sector Range,13.7,Diff of 23.4 pts vs reference
+MOTHERSON,2015-03,Consumer Discretionary,38.86883273164862,Above Sector Range,13.7,Diff of 25.2 pts vs reference
+MOTHERSON,2016-03,Consumer Discretionary,40.34569024334774,Above Sector Range,13.7,Diff of 26.6 pts vs reference
+MOTHERSON,2017-03,Consumer Discretionary,26.25725338491296,Above Sector Range,13.7,Diff of 12.6 pts vs reference
+NAUKRI,2018-03,Communication Services,24.49877750611247,Above Sector Range,3.65,Diff of 20.8 pts vs reference
+NAUKRI,2019-03,Communication Services,23.27959103421156,Above Sector Range,3.65,Diff of 19.6 pts vs reference
+NAUKRI,2020-03,Communication Services,-11.207289293849659,Below Sector Range,3.65,Diff of 14.9 pts vs reference
+NAUKRI,2021-03,Communication Services,26.278724981467754,Above Sector Range,3.65,Diff of 22.6 pts vs reference
+NAUKRI,2022-03,Communication Services,74.71291033522793,Above Sector Range,3.65,Diff of 71.1 pts vs reference
+NESTLEIND,2013-12,Consumer Staples,47.170608108108105,Above Sector Range,185.43,Diff of 138.3 pts vs reference
+NESTLEIND,2014-12,Consumer Staples,41.76947479732112,Within Sector Range,185.43,Diff of 143.7 pts vs reference
+NESTLEIND,2015-12,Consumer Staples,19.985800496982606,Below Sector Range,185.43,Diff of 165.4 pts vs reference
+NESTLEIND,2016-12,Consumer Staples,30.499695307739184,Within Sector Range,185.43,Diff of 154.9 pts vs reference
+NESTLEIND,2017-12,Consumer Staples,35.8187134502924,Within Sector Range,185.43,Diff of 149.6 pts vs reference
+NESTLEIND,2018-12,Consumer Staples,43.75170160631636,Within Sector Range,185.43,Diff of 141.7 pts vs reference
+NESTLEIND,2019-12,Consumer Staples,102.60688216892598,Above Sector Range,185.43,Diff of 82.8 pts vs reference
+NESTLEIND,2020-12,Consumer Staples,103.12035661218424,Above Sector Range,185.43,Diff of 82.3 pts vs reference
+NESTLEIND,2021-12,Consumer Staples,108.83864337101747,Above Sector Range,185.43,Diff of 76.6 pts vs reference
+NESTLEIND,2022-12,Consumer Staples,97.23464823098821,Above Sector Range,185.43,Diff of 88.2 pts vs reference
+NESTLEIND,2023-12,Consumer Staples,121.96014640097602,Above Sector Range,185.43,Diff of 63.5 pts vs reference
+NESTLEIND,2024-03,Consumer Staples,117.75449101796407,Above Sector Range,185.43,Diff of 67.7 pts vs reference
+ONGC,2016-03,Energy,6.623393693065202,Below Sector Range,19.71,Diff of 13.1 pts vs reference
+ONGC,2020-03,Energy,5.585459084171932,Below Sector Range,19.71,Diff of 14.1 pts vs reference
+ONGC,2021-03,Energy,9.665989383702671,Within Sector Range,19.71,Diff of 10.0 pts vs reference
+PFC,2018-03,Financials,22.08414921925993,Above Sector Range,9.96,Diff of 12.1 pts vs reference
+PFC,2019-03,Financials,26.824558052672902,Above Sector Range,9.96,Diff of 16.9 pts vs reference
+PFC,2021-03,Financials,25.86272154294272,Above Sector Range,9.96,Diff of 15.9 pts vs reference
+PFC,2022-03,Financials,26.18449690272895,Above Sector Range,9.96,Diff of 16.2 pts vs reference
+PFC,2023-03,Financials,25.165759642577058,Above Sector Range,9.96,Diff of 15.2 pts vs reference
+PFC,2024-03,Financials,26.1609340860332,Above Sector Range,9.96,Diff of 16.2 pts vs reference
+PIDILITIND,2022-03,Materials,18.847595252966894,Within Sector Range,29.7,Diff of 10.9 pts vs reference
+PIDILITIND,2023-03,Materials,17.872989462007766,Within Sector Range,29.7,Diff of 11.8 pts vs reference
+PNB,2013-03,Financials,812.2977346278317,Above Sector Range,1.63,Diff of 810.7 pts vs reference
+PNB,2014-03,Financials,393.3618843683083,Above Sector Range,1.63,Diff of 391.7 pts vs reference
+PNB,2015-03,Financials,223.2425585813806,Above Sector Range,1.63,Diff of 221.6 pts vs reference
+PNB,2016-03,Financials,-163.56011183597388,Below Sector Range,1.63,Diff of 165.2 pts vs reference
+PNB,2017-03,Financials,22.212262459662963,Above Sector Range,1.63,Diff of 20.6 pts vs reference
+PNB,2018-03,Financials,-184.36596133353632,Below Sector Range,1.63,Diff of 186.0 pts vs reference
+PNB,2019-03,Financials,-128.4465366509751,Below Sector Range,1.63,Diff of 130.1 pts vs reference
+PNB,2021-03,Financials,30.393594225780983,Above Sector Range,1.63,Diff of 28.8 pts vs reference
+PNB,2022-03,Financials,39.87348229772472,Above Sector Range,1.63,Diff of 38.2 pts vs reference
+PNB,2023-03,Financials,30.667397060166163,Above Sector Range,1.63,Diff of 29.0 pts vs reference
+PNB,2024-03,Financials,61.320565191187306,Above Sector Range,1.63,Diff of 59.7 pts vs reference
+RECLTD,2013-03,Financials,21.86537364517969,Within Sector Range,10.0,Diff of 11.9 pts vs reference
+RECLTD,2014-03,Financials,22.789982214103734,Above Sector Range,10.0,Diff of 12.8 pts vs reference
+RECLTD,2015-03,Financials,21.31461391193363,Within Sector Range,10.0,Diff of 11.3 pts vs reference
+RECLTD,2024-03,Financials,20.39653929343908,Within Sector Range,10.0,Diff of 10.4 pts vs reference
+SHREECEM,2013-06,Materials,26.11862643080125,Above Sector Range,14.8,Diff of 11.3 pts vs reference
+SIEMENS,2014-09,Industrials,13.782857142857145,Within Sector Range,25.6,Diff of 11.8 pts vs reference
+SIEMENS,2016-09,Industrials,42.83404380420402,Above Sector Range,25.6,Diff of 17.2 pts vs reference
+SIEMENS,2017-09,Industrials,14.785435630689205,Within Sector Range,25.6,Diff of 10.8 pts vs reference
+SIEMENS,2018-09,Industrials,10.85672972647307,Below Sector Range,25.6,Diff of 14.7 pts vs reference
+SIEMENS,2019-09,Industrials,12.144988396507902,Within Sector Range,25.6,Diff of 13.5 pts vs reference
+SIEMENS,2020-09,Industrials,8.1015592077539,Below Sector Range,25.6,Diff of 17.5 pts vs reference
+SIEMENS,2021-09,Industrials,10.52478979414323,Below Sector Range,25.6,Diff of 15.1 pts vs reference
+SIEMENS,2022-09,Industrials,13.290267011197244,Within Sector Range,25.6,Diff of 12.3 pts vs reference
+SIEMENS,2023-09,Industrials,14.991976770841292,Within Sector Range,25.6,Diff of 10.6 pts vs reference
+SUNPHARMA,2018-03,Healthcare,6.634650519392389,Below Sector Range,17.3,Diff of 10.7 pts vs reference
+SUNPHARMA,2021-03,Healthcare,4.889912403417773,Below Sector Range,17.3,Diff of 12.4 pts vs reference
+SUNPHARMA,2022-03,Healthcare,7.0587990252233865,Below Sector Range,17.3,Diff of 10.2 pts vs reference
+TATACONSUM,2016-03,Consumer Staples,-0.5922842964623019,Below Sector Range,10.6,Diff of 11.2 pts vs reference
+TATAMOTORS,2018-03,Consumer Discretionary,9.526554051221863,Below Sector Range,20.1,Diff of 10.6 pts vs reference
+TATAMOTORS,2019-03,Consumer Discretionary,-47.73093604081158,Below Sector Range,20.1,Diff of 67.8 pts vs reference
+TATAMOTORS,2020-03,Consumer Discretionary,-18.984131010320393,Below Sector Range,20.1,Diff of 39.1 pts vs reference
+TATAMOTORS,2021-03,Consumer Discretionary,-24.245660397849658,Below Sector Range,20.1,Diff of 44.3 pts vs reference
+TATAMOTORS,2022-03,Consumer Discretionary,-25.378694374004173,Below Sector Range,20.1,Diff of 45.5 pts vs reference
+TATAMOTORS,2023-03,Consumer Discretionary,5.935307356250828,Below Sector Range,20.1,Diff of 14.2 pts vs reference
+TATAMOTORS,2024-03,Consumer Discretionary,37.45613415294755,Above Sector Range,20.1,Diff of 17.4 pts vs reference
+TATAPOWER,2013-03,Energy,0.9971625456019456,Below Sector Range,11.1,Diff of 10.1 pts vs reference
+TATAPOWER,2014-03,Energy,0.0967663898072736,Below Sector Range,11.1,Diff of 11.0 pts vs reference
+TATASTEEL,2013-03,Materials,-21.280580592297788,Below Sector Range,7.02,Diff of 28.3 pts vs reference
+TATASTEEL,2015-03,Materials,-12.564994098695333,Below Sector Range,7.02,Diff of 19.6 pts vs reference
+TATASTEEL,2017-03,Materials,-11.023559586451254,Below Sector Range,7.02,Diff of 18.0 pts vs reference
+TATASTEEL,2018-03,Materials,29.148527213287117,Above Sector Range,7.02,Diff of 22.1 pts vs reference
+TATASTEEL,2022-03,Materials,36.48016916718366,Above Sector Range,7.02,Diff of 29.5 pts vs reference
+TATASTEEL,2024-03,Materials,-5.334926929972293,Below Sector Range,7.02,Diff of 12.4 pts vs reference
+TCS,2013-03,Information Technology,36.51740777253152,Within Sector Range,64.3,Diff of 27.8 pts vs reference
+TCS,2014-03,Information Technology,39.29667649151337,Within Sector Range,64.3,Diff of 25.0 pts vs reference
+TCS,2015-03,Information Technology,39.616865804285574,Within Sector Range,64.3,Diff of 24.7 pts vs reference
+TCS,2016-03,Information Technology,34.2441467807294,Within Sector Range,64.3,Diff of 30.1 pts vs reference
+TCS,2017-03,Information Technology,30.571600900085834,Within Sector Range,64.3,Diff of 33.7 pts vs reference
+TCS,2018-03,Information Technology,30.401278075368854,Within Sector Range,64.3,Diff of 33.9 pts vs reference
+TCS,2019-03,Information Technology,35.28609440332715,Within Sector Range,64.3,Diff of 29.0 pts vs reference
+TCS,2020-03,Information Technology,38.56952666238737,Within Sector Range,64.3,Diff of 25.7 pts vs reference
+TCS,2021-03,Information Technology,37.67311096456215,Within Sector Range,64.3,Diff of 26.6 pts vs reference
+TCS,2022-03,Information Technology,43.13375739014349,Within Sector Range,64.3,Diff of 21.2 pts vs reference
+TCS,2023-03,Information Technology,46.7829337344068,Within Sector Range,64.3,Diff of 17.5 pts vs reference
+TCS,2024-03,Information Technology,50.944313673485176,Above Sector Range,64.3,Diff of 13.4 pts vs reference
+TECHM,2013-03,Information Technology,24.087725764835973,Below Sector Range,11.9,Diff of 12.2 pts vs reference
+TECHM,2014-03,Information Technology,33.34785449793073,Within Sector Range,11.9,Diff of 21.4 pts vs reference
+TITAN,2013-03,Consumer Discretionary,36.80203045685279,Above Sector Range,22.7,Diff of 14.1 pts vs reference
+TITAN,2024-03,Consumer Discretionary,37.2192057915469,Above Sector Range,22.7,Diff of 14.5 pts vs reference
+TORNTPHARM,2014-03,Healthcare,34.8922753547031,Above Sector Range,23.2,Diff of 11.7 pts vs reference
+TORNTPHARM,2016-03,Healthcare,49.59931310818546,Above Sector Range,23.2,Diff of 26.4 pts vs reference
+TORNTPHARM,2019-03,Healthcare,9.227513227513228,Below Sector Range,23.2,Diff of 14.0 pts vs reference
+TORNTPHARM,2022-03,Healthcare,13.052242566773057,Below Sector Range,23.2,Diff of 10.1 pts vs reference
+TRENT,2013-03,Consumer Discretionary,-2.1933387489845653,Below Sector Range,23.8,Diff of 26.0 pts vs reference
+TRENT,2014-03,Consumer Discretionary,-1.917255297679112,Below Sector Range,23.8,Diff of 25.7 pts vs reference
+TRENT,2015-03,Consumer Discretionary,9.071729957805907,Below Sector Range,23.8,Diff of 14.7 pts vs reference
+TRENT,2016-03,Consumer Discretionary,3.7568306010928962,Below Sector Range,23.8,Diff of 20.0 pts vs reference
+TRENT,2017-03,Consumer Discretionary,5.4945054945054945,Below Sector Range,23.8,Diff of 18.3 pts vs reference
+TRENT,2018-03,Consumer Discretionary,5.454545454545454,Below Sector Range,23.8,Diff of 18.3 pts vs reference
+TRENT,2019-03,Consumer Discretionary,5.771567436208992,Below Sector Range,23.8,Diff of 18.0 pts vs reference
+TRENT,2020-03,Consumer Discretionary,4.438860971524288,Below Sector Range,23.8,Diff of 19.4 pts vs reference
+TRENT,2021-03,Consumer Discretionary,-7.825335062689148,Below Sector Range,23.8,Diff of 31.6 pts vs reference
+TRENT,2022-03,Consumer Discretionary,1.4805414551607445,Below Sector Range,23.8,Diff of 22.3 pts vs reference
+TRENT,2024-03,Consumer Discretionary,36.30776794493609,Above Sector Range,23.8,Diff of 12.5 pts vs reference
+INDIGO,2013-03,Consumer Discretionary,17886.363636363636,Above Sector Range,24.5,Diff of 17861.9 pts vs reference
+INDIGO,2014-03,Consumer Discretionary,10772.727272727272,Above Sector Range,24.5,Diff of 10748.2 pts vs reference
+INDIGO,2015-03,Consumer Discretionary,4939.39393939394,Above Sector Range,24.5,Diff of 4914.9 pts vs reference
+INDIGO,2016-03,Consumer Discretionary,1534.775888717156,Above Sector Range,24.5,Diff of 1510.3 pts vs reference
+INDIGO,2017-03,Consumer Discretionary,1692.8571428571427,Above Sector Range,24.5,Diff of 1668.4 pts vs reference
+INDIGO,2018-03,Consumer Discretionary,2242.0,Above Sector Range,24.5,Diff of 2217.5 pts vs reference
+INDIGO,2019-03,Consumer Discretionary,120.93023255813952,Above Sector Range,24.5,Diff of 96.4 pts vs reference
+INDIGO,2020-03,Consumer Discretionary,-138.54748603351956,Below Sector Range,24.5,Diff of 163.0 pts vs reference
+INDIGO,2021-03,Consumer Discretionary,-1094.148936170213,Below Sector Range,24.5,Diff of 1118.6 pts vs reference
+INDIGO,2022-03,Consumer Discretionary,-48.769230769230774,Below Sector Range,24.5,Diff of 73.3 pts vs reference
+INDIGO,2023-03,Consumer Discretionary,-40.7979407979408,Below Sector Range,24.5,Diff of 65.3 pts vs reference
+INDIGO,2024-03,Consumer Discretionary,892.568306010929,Above Sector Range,24.5,Diff of 868.1 pts vs reference
