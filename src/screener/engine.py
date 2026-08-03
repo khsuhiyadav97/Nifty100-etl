@@ -12,9 +12,12 @@ def load_config(path=CONFIG_PATH):
 
 
 def load_latest_ratios(db_path=DB_PATH):
-    """Get each company's most recent year of ratios (screeners look at current state)."""
+    """Get each company's most recent year of ratios, merged with latest
+    market_cap data (P/E, P/B, dividend yield) for valuation-based screens.
+    """
     conn = sqlite3.connect(db_path)
-    query = """
+
+    ratios_query = """
         SELECT * FROM financial_ratios
         WHERE (company_id, year) IN (
             SELECT company_id, MAX(year) FROM financial_ratios
@@ -22,9 +25,22 @@ def load_latest_ratios(db_path=DB_PATH):
             GROUP BY company_id
         )
     """
-    df = pd.read_sql(query, conn)
+    ratios = pd.read_sql(ratios_query, conn)
+
+    mktcap_query = """
+        SELECT * FROM market_cap
+        WHERE (company_id, year) IN (
+            SELECT company_id, MAX(year) FROM market_cap GROUP BY company_id
+        )
+    """
+    mktcap = pd.read_sql(mktcap_query, conn)
     conn.close()
-    return df
+
+    # Merge on company_id only (years may not align between the two tables)
+    merged = ratios.merge(
+        mktcap.drop(columns=["year"]), on="company_id", how="left"
+    )
+    return merged
 
 
 def apply_filters(df, filters):
@@ -40,16 +56,17 @@ def apply_filters(df, filters):
     return result
 
 
-def run_screener(preset_name, config=None, db_path=DB_PATH):
+def run_screener(preset_name, config=None, df=None, db_path=DB_PATH):
     """Run a named preset from the config and return the ranked result."""
     if config is None:
         config = load_config()
+    if df is None:
+        df = load_latest_ratios(db_path)
 
     preset = config["presets"].get(preset_name)
     if preset is None:
         raise ValueError(f"Unknown preset: {preset_name}")
 
-    df = load_latest_ratios(db_path)
     filtered = apply_filters(df, preset["filters"])
 
     rank_by = preset.get("rank_by")
@@ -62,7 +79,12 @@ def run_screener(preset_name, config=None, db_path=DB_PATH):
 
 if __name__ == "__main__":
     config = load_config()
+    universe = load_latest_ratios()
+    print(f"Full universe size: {len(universe)} companies\n")
+
     for preset_name in config["presets"]:
-        result = run_screener(preset_name, config)
-        print(f"\n=== {preset_name} ({len(result)} companies) ===")
-        print(result[["company_id", "year"]].head(10).to_string(index=False))
+        result = run_screener(preset_name, config, df=universe)
+        pct = (len(result) / len(universe)) * 100
+        print(f"=== {preset_name}: {len(result)} companies ({pct:.0f}% of universe) ===")
+        print(result[["company_id", "year"]].head(8).to_string(index=False))
+        print()

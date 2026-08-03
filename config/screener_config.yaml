@@ -7,6 +7,28 @@ presets:
     rank_by: return_on_equity_pct
     rank_order: desc
 
+  value_pick:
+    filters:
+      pe_ratio: {max: 20}
+      pb_ratio: {max: 3.0}
+      debt_to_equity: {max: 2.0}
+    rank_by: pe_ratio
+    rank_order: asc
+
+  growth_accelerator:
+    filters:
+      operating_profit_margin_pct: {min: 15}
+      debt_to_equity: {max: 2.0}
+    rank_by: operating_profit_margin_pct
+    rank_order: desc
+
+  dividend_champion:
+    filters:
+      dividend_yield_pct: {min: 2}
+      free_cash_flow: {min: 0}
+    rank_by: dividend_yield_pct
+    rank_order: desc
+
   debt_free_blue_chip:
     filters:
       debt_to_equity: {max: 0.01}
@@ -14,16 +36,9 @@ presets:
     rank_by: return_on_equity_pct
     rank_order: desc
 
-  high_margin:
+  turnaround_watch:
     filters:
-      operating_profit_margin_pct: {min: 20}
-      net_profit_margin_pct: {min: 10}
-    rank_by: operating_profit_margin_pct
-    rank_order: desc
-
-  cash_rich:
-    filters:
-      cfo_pat_ratio: {min: 1.0}
       free_cash_flow: {min: 0}
-    rank_by: cfo_pat_ratio
-    rank_order: desc
+      net_profit_margin_pct: {min: 0}
+    rank_by: net_profit_margin_pct
+    rank_order: asc
