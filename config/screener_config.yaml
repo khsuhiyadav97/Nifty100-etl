@@ -1,0 +1,29 @@
+presets:
+  quality_compounder:
+    filters:
+      return_on_equity_pct: {min: 15}
+      debt_to_equity: {max: 1.0}
+      free_cash_flow: {min: 0}
+    rank_by: return_on_equity_pct
+    rank_order: desc
+
+  debt_free_blue_chip:
+    filters:
+      debt_to_equity: {max: 0.01}
+      return_on_equity_pct: {min: 12}
+    rank_by: return_on_equity_pct
+    rank_order: desc
+
+  high_margin:
+    filters:
+      operating_profit_margin_pct: {min: 20}
+      net_profit_margin_pct: {min: 10}
+    rank_by: operating_profit_margin_pct
+    rank_order: desc
+
+  cash_rich:
+    filters:
+      cfo_pat_ratio: {min: 1.0}
+      free_cash_flow: {min: 0}
+    rank_by: cfo_pat_ratio
+    rank_order: desc
