@@ -1,0 +1,37 @@
+"""Capital Allocation Map Screen - shows CFO/CFI/CFF sign pattern per company."""
+import streamlit as st
+import sqlite3
+import pandas as pd
+import sys
+import os
+
+# Build an absolute path to src/analytics regardless of where this script
+# is run from - relative paths like 'src/analytics' break if the working
+# directory isn't exactly the project root.
+THIS_DIR = os.path.dirname(os.path.abspath(__file__))
+ANALYTICS_DIR = os.path.join(THIS_DIR, "..", "..", "analytics")
+sys.path.append(os.path.abspath(ANALYTICS_DIR))
+
+from cashflow_kpis import build_cashflow_kpis
+
+st.set_page_config(page_title="Capital Allocation", layout="wide")
+
+
+@st.cache_data(ttl=600)
+def load_patterns():
+    return build_cashflow_kpis()
+
+
+st.title("Capital Allocation Map")
+
+df = load_patterns()
+pattern_counts = df["capital_allocation_pattern"].value_counts()
+
+st.subheader("Distribution of Capital Allocation Patterns")
+st.bar_chart(pattern_counts)
+
+selected_pattern = st.selectbox("Click a pattern to see companies", pattern_counts.index)
+matching = df[df["capital_allocation_pattern"] == selected_pattern]
+st.write(f"**{len(matching)} company-years with this pattern**")
+st.dataframe(matching[["company_id", "year", "free_cash_flow", "cfo_pat_ratio"]],
+             use_container_width=True)
